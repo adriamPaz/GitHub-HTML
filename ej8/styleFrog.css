@@ -54,7 +54,7 @@ section:nth-of-type(2) {
 section:nth-of-type(2) button {
     background-color: #70c6e4;
     border: none;
-    padding: 1rem 2rem;
+    padding: 1rem 3rem;
     font-size: 1.5rem;
     color: white;
     cursor: pointer;
